@@ -1,3 +1,3 @@
-# -Sales-Insight-Analysis-SQL-Tableau-
+# Sales Insight Analysis SQL Tableau
 
 
